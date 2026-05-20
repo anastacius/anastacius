@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Julio, mas pode me chamar de AnastaciusX por aqui.
 
-<!--
-**anastacius/anastacius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Monitor de educação profissional no **Senac Ribeirão Preto**.
+Na área de tecnologia, hardware e desenvolvimento. Entusiasta de midias digitais, curto edição de vídeos e produção musical, mas isso fica pelo hobbie mesmo.
 
-Here are some ideas to get you started:
+Atualmente trabalho também em meu canal no <a href="https://www.youtube.com/@AnastaciusX">Youtube</a> onde falo sobre linux e jogos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologias que estudo
+
+`HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub` . `node.js` . `PHP` · `MySQL` . ETC
+
+---
+
+### Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=anastacius&theme=dark&show_icons=true" alt="Stats" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=anastacius&theme=dark&layout=compact" alt="Top Languages" />
+</div>
+---
+
+### Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1A3A6B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julioanastaciodev/)
+[![Email](https://img.shields.io/badge/-Email-F7941D?style=flat-square&logo=gmail&logoColor=white)](mailto:anastaciusx@gmail.com)
+
+---
+
+<sub>Senac Ribeirão preto · T.I. · 2026</sub>
